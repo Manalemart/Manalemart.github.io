@@ -1,9 +1,10 @@
 ---
 permalink: /about
 layout: page
-title: About me
+title: Acerca de mi
 ---
 
-More details about me on this page with links to my social media profiles and so on.
+Más detalles acerca de mi en mis redes sociales. 
+El señor del gorrito
 
 ![](https://www.jorgesanz.net/assets/imgs/me/jsanz_small4.png)

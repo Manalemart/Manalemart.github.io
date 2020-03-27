@@ -1,15 +1,13 @@
-title: My blog
-description: My very nice blog
-author: "Jorge Sanz"
+title: Prueba
+description: 12345
+author: "Manel"
 
 
 theme: minima
 
 # Minima social links
-twitter_username: xurxosanz
-github_username: jsanz
-linkedin_username: jsanz
-rss: rss
+github_username: Manalemart
+
 
 # Minima: show excerpts in the frontpage
 show_excerpts: true

@@ -1,8 +1,8 @@
 ---
 permalink: /
 layout: home
-title: Welcome
-list_title: My blog posts
+title: Hola! 
+list_title: Blogs
 ---
 
 This is the frontpage of my website. Here I can put a small intro about me.

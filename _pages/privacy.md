@@ -1,3 +1,7 @@
+permalink	/privacy
+layout	home
+
+
 ## Política de privacidad — BabySign
 
 **Datos que recopilamos**

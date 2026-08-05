@@ -1,6 +1,8 @@
-permalink	/privacy
-layout	home
-
+---
+permalink: /privacy
+layout: page
+title: Politicas Privacidad
+---
 
 ## Política de privacidad — BabySign
 
@@ -27,4 +29,4 @@ BabySign no comparte datos con terceros ni utiliza servicios de analítica.
 Para eliminar todos los datos, desinstala la aplicación.
 
 **Contacto**
-[tu-email@dominio.com]
+dearrollo@mediamapes.com
